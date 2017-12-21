@@ -122,3 +122,7 @@ body{
     .active {
       background-color: #eaeaea;
     }
+
+    .search-button {
+      cursor: pointer;
+    }
